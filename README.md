@@ -49,24 +49,7 @@ npm run dev
 ```
 
 Configure your PostgreSQL connection in the backend `.env` file before running the application.
-## Screenshots
 
-!(screenshot1.png)
-
-
-!(screenshot2.png)
-
-
-!(screenshot3.png)
-
-
-screenshot4
-
-
-!(screenshot5.png)
-
-
-!(screenshot6.png)
 
 ## Author
 
