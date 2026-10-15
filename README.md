@@ -53,15 +53,15 @@ Configure your PostgreSQL connection in the backend `.env` file before running t
 
 ![](screenshot1.png)
 
-![](screenshots/screenshot2.png)
+![](screenshot2.png)
 
-![](screenshots/screenshot3.png)
+![](screenshot3.png)
 
-![](screenshots/screenshot4.png)
+![](screenshot4.png)
 
-![](screenshots/screenshot5.png)
+![](screenshot5.png)
 
-![](screenshots/screenshot6.png)
+![](screenshot6.png)
 
 
 ## Author
