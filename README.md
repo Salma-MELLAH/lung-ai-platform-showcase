@@ -60,7 +60,7 @@ Configure your PostgreSQL connection in the backend `.env` file before running t
 !(screenshot3.png)
 
 
-screenshot4.png
+screenshot4
 
 
 !(screenshot5.png)
